@@ -2,6 +2,8 @@
 
 Project Description :
 
+**First Thing Merge Both Folder Prediction 1 and Predition 2 In one Single folder**
+
 This project implements developing a machine learning model which can classify the
 severity of the accident, based on the accident influential factors. Various machine
 learning classifiers such as Decision tree (DT), K- Nearest Neighbour (KNN),
